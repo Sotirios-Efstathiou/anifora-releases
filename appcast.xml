@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Tue, 13 Oct 2026 18:56:13 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>Updates you can follow.</strong> When a new version is there as Anifora opens, a card says what it brings and shows the download as it arrives. When it is ready, Anifora waits for you: Restart Now, or it restarts by itself after ten seconds, as the card says; Later installs it when you quit.</li>
+<li><strong>What's New after an update.</strong> The first time the new version opens, it says so, and lists what changed.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.1-3.zip" length="4883839" type="application/octet-stream" sparkle:edSignature="77U8fVcY3n1YLzc7GlVkOToK3m+W/bfY5QMt7kWPX3ATOBnqwNvj348FHjAavsmtnFxwi0PvCpYwKgbcv3r0Bg=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Tue, 13 Oct 2026 10:51:46 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -88,6 +103,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: amMyMmze/DsQBteSzEu8gElgZJ8d5Tt+3lEwLmbChEFVwP41RNmRyvNu7eH2fDVmLSnme8BkCCna/nVRnmhtBg==
-length: 15140
+edSignature: TsyscDg1V73tBkWI73cNT6MKDOoFFP6frEIE/S0u+9WCvlQ4ClQkLSdimG8HOGaYj5+CdiltkA375pqLDT4/Bg==
+length: 16544
 -->
