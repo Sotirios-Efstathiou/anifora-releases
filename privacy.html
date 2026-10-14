@@ -117,7 +117,7 @@ footer p{margin:0 0 8px}
 <main id="main">
 
 <h1>Privacy</h1>
-<p class="lead">Everything you ride and record stays on your Mac. There is no account and no analytics. Nothing is uploaded unless you do it yourself.</p>
+<p class="lead">Everything you ride and record stays on your Mac. There is no account and no analytics. While Anifora is in beta it sends reports about how it ran — never your rides — and you can switch that off.</p>
 <p>A few things do use the internet. They are listed below, with what is sent and who gets it.</p>
 
 <h2>What stays on your Mac</h2>
@@ -148,13 +148,21 @@ footer p{margin:0 0 8px}
 <h3>4. Problem reports: your own email, only when you send one</h3>
 <p><strong>Help</strong> &rarr; <strong>Report a Problem&hellip;</strong> prepares a file with Anifora&rsquo;s version, your Mac&rsquo;s model and macOS version, Anifora&rsquo;s own log and crash reports with your user name taken out. It never includes your rides or heart rate. It opens an email to Sotirios.Efstathiou@gmail.com with the file attached. Anifora sends nothing itself: the email leaves when you press Send, through your own mail account.</p>
 </div>
-<p>That is all. Apart from these four, Anifora makes no connections of its own. It has no tracking, no advertising and no account to sign in to.</p>
+<div class="card">
+<h3>5. Beta reports: the developer&rsquo;s own server, unless you switch them off</h3>
+<p>While Anifora is in beta it sends reports about how it ran, so problems that happen only on your Mac can be found and fixed. The welcome screen says so (or, if you already had Anifora, a note on its front page), and nothing is sent before you have seen that. They are on unless you switch them off in Settings (<kbd>&#8984;,</kbd>) &rarr; <strong>Beta reports</strong>.</p>
+<p>A report says: Anifora&rsquo;s version; your Mac&rsquo;s model, macOS version and memory; a random number made on your Mac that names no one but tells your reports apart from another tester&rsquo;s; how long Anifora ran and whether it quit normally; how much memory it used and whether it stopped responding; what went wrong (a trainer not responding, a file it could not read, a crash); Anifora&rsquo;s own log of what it did, which names the roads and workouts you loaded and the Bluetooth devices it saw; and the crash and hang reports macOS writes about Anifora. Your user name, your Mac&rsquo;s name and your home folder are taken out first.</p>
+<p>It never contains a ride, a heart rate, a position, your name, weight or FTP. It is never sent during a ride. Each report waits as a plain file you can open — Settings &rarr; <strong>Show Them</strong> — and a file you delete there is not sent.</p>
+<p>Reports go to a small server of the developer&rsquo;s own, run on Cloudflare (<code>workers.dev</code>), and are read only by the developer. The server keeps the report and nothing else: not your IP address. Cloudflare sees your IP address, as with any web request. The server deletes every report 180 days after it arrived.</p>
+</div>
+<p>That is all. Apart from these five, Anifora makes no connections of its own. It has no tracking, no advertising and no account to sign in to.</p>
 
 <h2>Your choices</h2>
 <ul>
 <li>Switch off the daily update check in Settings. Then Anifora never contacts GitHub unless you choose <strong>Check for Updates&hellip;</strong>.</li>
 <li>Answer no to survey heights, or change your answer in About Anifora.</li>
 <li>Do not send a problem report.</li>
+<li>Switch off beta reports in Settings (<kbd>&#8984;,</kbd>). Nothing more is sent from then on.</li>
 <li>To remove everything Anifora keeps, quit it and delete the two folders above, and the <code>TrainerApp</code> folder in <code>~/Library/Caches</code>.</li>
 </ul>
 

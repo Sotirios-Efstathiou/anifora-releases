@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Wed, 14 Oct 2026 15:33:54 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>The 3D world no longer eats memory.</strong> Left on the start line (or paused) it grew by about 30 MB a second — on one Mac to 95 GB, until macOS paused every app. It now stays flat, and a ride uses about half the memory it did.</li>
+<li><strong>A safety net for the map.</strong> Anifora watches its own memory: if Apple's map ever runs away with it, the map is closed and the ride carries on in the classic screen, trainer and recording untouched. A banner says so; the map is back the next time Anifora opens.</li>
+<li><strong>Beta reports.</strong> While Anifora is in beta it tells the developer how it ran — errors, crashes, memory, its own log — so problems on your Mac get found without you having to report them. Never a ride, a heart rate or your name, never during a ride, and only after you have seen the note saying so. Settings (⌘,) switches it off and shows what is waiting to go.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.2-4.zip" length="4957521" type="application/octet-stream" sparkle:edSignature="HczmNGm0s1MsvfTPWCMKZ8rxx7lUW0bddPbDPkjxb3cH4Kqq5LgtKTAl/KbEurNYM0+swBfLYR4dChhqG90/Cw=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Tue, 13 Oct 2026 18:56:13 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -61,48 +77,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.0-2.zip" length="4853617" type="application/octet-stream" sparkle:edSignature="j63x+1QQe5ZWOq0bTCNeGSqPWdInoBFDakH6N89UmlUKuI6+PjZHFtgV9lBnZ0lkxT2zO9LZ5EQ1f49cMedVCQ=="/>
         </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Mon, 12 Oct 2026 18:21:23 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<p>The first build meant for riders other than its author.</p>
-<ul>
-<li><strong>A name.</strong> The app is Anifora, with its own icon — a capital A whose crossbar climbs — and its name in road-sign capitals, in Latin and in Greek (ΑΝΗΦΟΡΑ, the climb). Settings, Bluetooth permission and rides carry over from 0.1.</li>
-<li><strong>Opens at once, even with your files in iCloud.</strong> If macOS has moved rides or roads to iCloud to save space, Anifora no longer waits for them before showing its window: it opens, shows a small card with what it is fetching and how far it has got, and fills in each ride and road as it arrives.</li>
-<li><strong>Updates as it opens.</strong> Anifora looks for a new version when it opens. If there is one, a card shows it downloading; then Anifora closes, installs it and opens again, in about half a minute. <strong>Skip This Time</strong> leaves it for when you quit. With no internet the card goes after three seconds.</li>
-<li><strong>⌘Q always quits.</strong> With Devices, a ride's details or any other sheet open, Quit used to do nothing at all and Anifora stayed running. The sheet now closes and the app quits; during a ride it still asks first.</li>
-<li><strong>A front page.</strong> Home opens first: pick a workout and a road, or go straight to a free ride, the workouts, the climbs or your roads, and ride again what you rode before.</li>
-<li><strong>The ride is the world.</strong> In 3D the road fills the screen, with a mini map of the whole road and a card for the climb underfoot or the one ahead. The camera moves smoothly and lets you look around.</li>
-<li><strong>A calmer ride screen.</strong> The panels over the road are darker and lie on one grid: the workout top left, the view buttons and the menu in one bar over the mini map, lap, pause and stop at the top centre, and the panels along the bottom the same height.</li>
-<li><strong>Workouts on a road.</strong> Ride a workout's targets over a real road; the app says how far it will take you and whether the road laps or rides back.</li>
-<li><strong>Hill repeats.</strong> A climb N times up, paced so you empty yourself on the last one, with a ghost of each climb.</li>
-<li><strong>Laser heights.</strong> A road imported in North Rhine-Westphalia takes its heights from the state's 5 m survey, with bridges and tunnels ridden straight across.</li>
-<li><strong>Pacing from your own rides.</strong> Your FTP stays the anchor; the last 60 days of rides nudge it, and the Progress tab says by how much and why.</li>
-<li><strong>Virtual gears.</strong> One cog on the trainer, a full set of gears in the app: shift with ← and → or on the gear panel, or let auto shift do it by cadence, by power, or by what the climb needs next.</li>
-<li><strong>Rename</strong> a road or a workout and its rides, stars and times go with it. Roads get stars and times up; three warm-ups start any session.</li>
-<li><strong>A welcome.</strong> A new Mac starts by saying where your rides are kept, that nothing is uploaded, how updates behave and that you ride at your own risk — then asks who rides, finds the trainer (or offers the demo) and invites a GPX. Climbs and Home say how to bring a road when there is none.</li>
-<li><strong>Survey heights only when you say so.</strong> Looking up a road's laser heights is asked at the first import it could help, and never runs on its own at launch; "Look up survey heights" does it when you want.</li>
-<li><strong>About Anifora</strong> has the disclaimer, what stays on your Mac, and the credits.</li>
-<li><strong>Updates that never touch a ride.</strong> Anifora looks for a new version once a day, downloads it in the background, checks its signature, and installs it when you quit. Nothing about an update happens during a ride: no check, no message, no restart. A banner says when one is ready, with Restart Now; an important fix is asked about once, off the bike. Check for Updates… is in the Anifora menu, and Settings (⌘,) switches the daily check off.</li>
-<li><strong>Quitting during a ride asks first.</strong> ⌘Q while riding asks "End the ride and quit?"; ending it saves the ride and releases the trainer before the app goes. Logging out or shutting down saves the ride without asking.</li>
-<li><strong>Made for the Wahoo KICKR CORE with Zwift Cog.</strong> Devices says so, and says plainly when a trainer cannot be ridden as it should: another app holding it, no Bluetooth control, no ERG, or power without cadence — before the ride, not by pedalling. Another trainer is named as one. Shifters on the bike and the Zwift Click are not used in this version.</li>
-<li><strong>Into Applications.</strong> Opened from the disk image or where it was downloaded, Anifora offers to move itself into Applications, where it can keep itself up to date.</li>
-<li><strong>Safer recording.</strong> Laps survive a crash; Anifora warns before a ride when it cannot write to its folder, and clears out abandoned sub-minute journals. If Documents was not allowed, the ride screen says rides cannot be saved, rather than finding out at the end.</li>
-<li><strong>Report a Problem…</strong> in the Help menu (and in About): say what went wrong, see exactly which files would go with it, and email them. Anifora keeps a short log of what it did — connections, messages, when rides started and stopped; never heart rate, positions or your ride's figures — for two weeks, and it leaves your Mac only if you send it.</li>
-<li><strong>The trainer lets go.</strong> A trainer that comes back after a Bluetooth drop or a crash with no ride running has its load taken off; one that comes back during a ride is started again; disconnecting it in Devices takes the load off first. A real trainer that connects switches the demo trainer off.</li>
-<li><strong>Free ride means gears.</strong> Free ride on Home opens on the virtual gears, not on a fixed wattage, and a road opens in 3D.</li>
-</ul>
-<p>Under the hood: version numbers now come from one place, the app is built for Apple Silicon only, and the developer-only tools are left out of the build riders get.</p>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.0-1.zip" length="4851636" type="application/octet-stream" sparkle:edSignature="vpUnRDMyT4lHMqciilbR7bU3oTNC1bBglLQU+bqrbTnio1GPqg8BOmXyFCxlmAjUJGD+C3/0z0bCOyfs1jaZDA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: TsyscDg1V73tBkWI73cNT6MKDOoFFP6frEIE/S0u+9WCvlQ4ClQkLSdimG8HOGaYj5+CdiltkA375pqLDT4/Bg==
-length: 16544
+edSignature: bPwD6eUlGuWqhUSH3HQiyqeM2id8qXC16FH32xM+/1NyLBDzLS3GBFQ2jr/E7VUrEQDTK0AS35yskPZsmQbODg==
+length: 11348
 -->
