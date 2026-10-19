@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.5</title>
+            <pubDate>Mon, 19 Oct 2026 15:44:44 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>Explore: every road on one map.</strong> A new page (⌘8) shows all your roads on the satellite map from above, coloured by their steepness as in the ride — or by whether you have ridden them, or by kind. Point at one to see its length, climbing, its climbs, where its heights came from and how often you have ridden it; click it for its profile, a look along it in 3D, or Ride. The list beside the map shows the roads in view first, with search and filters.</li>
+<li><strong>Gears back when the workout is done.</strong> A workout on a road used to hold you at an easy ERG wattage once it had finished, in whatever gear the last block left. Now the ride goes over to the road and your gears at once, in an easy gear, so you can ride on and shift as you like.</li>
+<li><strong>A ride's summary tells the road.</strong> After a ride on a road — a pass, your own road, or a workout on one — the summary shows what you rode in 3D on the satellite map (drag, pinch and turn to look around), the profile in the gradient's colours, where you started and finished, distance, metres climbed and descended, the highest point and the steepest ramp, and every climb with its time, VAM, watts, heart rate and cadence. The top of the summary is new too: time, distance, climbing, speed, watts and TSS at a glance, the rest grouped by effort, heart and legs. Rides from before keep their summary as it was.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.5-7.zip" length="5272583" type="application/octet-stream" sparkle:edSignature="bjl75cUy35hOFWceUqzurWZawZpNhdSezRxVXNYWGQ/aTcf0VBtMLoC8JOWXjE6d+eFPrscEl2xI0agsTkG0Dw=="/>
+        </item>
+        <item>
             <title>0.2.4</title>
             <pubDate>Mon, 19 Oct 2026 10:58:00 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -41,25 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.3-5.zip" length="4953114" type="application/octet-stream" sparkle:edSignature="7hfJcG7O2j/a27kRlz02w1ved+n1eyFlwkHrxhXVFSIqRkBVARTWqUiObctQ8CqmV5hC/9oZKi2hFwxoOY9zCA=="/>
         </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Wed, 14 Oct 2026 15:33:54 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>The 3D world no longer eats memory.</strong> Left on the start line (or paused) it grew by about 30 MB a second — on one Mac to 95 GB, until macOS paused every app. It now stays flat, and a ride uses about half the memory it did.</li>
-<li><strong>A safety net for the map.</strong> Anifora watches its own memory: if Apple's map ever runs away with it, the map is closed and the ride carries on in the classic screen, trainer and recording untouched. A banner says so; the map is back the next time Anifora opens.</li>
-<li><strong>Beta reports.</strong> While Anifora is in beta it tells the developer how it ran — errors, crashes, memory, its own log — so problems on your Mac get found without you having to report them. Never a ride, a heart rate or your name, never during a ride, and only after you have seen the note saying so. Settings (⌘,) switches it off and shows what is waiting to go.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.2-4.zip" length="4957521" type="application/octet-stream" sparkle:edSignature="HczmNGm0s1MsvfTPWCMKZ8rxx7lUW0bddPbDPkjxb3cH4Kqq5LgtKTAl/KbEurNYM0+swBfLYR4dChhqG90/Cw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: rZFIinRizmbafOICKtiB2CYfyEOCbHhYvkibUDOhcxHBafjeTxvTfM93CdUWsM0s95iBTgiqpn/Ugzte1dwwAQ==
-length: 6672
+edSignature: zF4CfYsmxOpOCzcMsdWM7MRhV0iz9O1pMygLzqqWH1nXXxGT97rDY05AtxMAxGG0+tkPXq61HBfY7ZjZsiqWCw==
+length: 7167
 -->
