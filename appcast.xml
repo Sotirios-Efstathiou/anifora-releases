@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.6</title>
+            <pubDate>Mon, 19 Oct 2026 17:14:05 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>Choose a road on the map.</strong> The + on Home's road slot opens Explore: every road on the map, and filters for what you want from the ride — what its climbs are good for (VO₂max, threshold, a long climb, steady endurance), how long it takes you, how big its biggest climb is (Strava's categories), ridden or not yet, and the kind of road. Each choice says how many roads it would leave. Times and climbs are worked out for your FTP and weight. Pick a road, then Choose.</li>
+<li><strong>Import a GPX from Explore.</strong> Import GPX… at the top of Explore, or drop a file anywhere on it: the road is brought in as on My roads, asked about streets and heights the same way, and the map flies to it.</li>
+<li><strong>Right-click a road in Explore's list</strong> to ride (or choose) it, show it on the map, look at it in 3D, show its original file, or move one of your own roads to the Trash — with its original file, as on My roads. Its rides stay.</li>
+<li><strong>Looking up streets and heights shows how far it has got.</strong> A bar counts the road's map squares as OpenStreetMap and the laser survey answer, with the seconds on the one being asked — and when OpenStreetMap's server is busy or down it says so ("not answering (502) — asking again in 20 s, try 3 of 5"). A server that is down now gives up after one round of tries instead of three, and Try again asks once more.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.6-8.zip" length="5377715" type="application/octet-stream" sparkle:edSignature="RTwV1gGOSTPS4UNYid28bM29QnxcSvjII0nHstZPDd/Vq+fiASxLgusCqT6XmZ9SgnTLsIVYhqXGfcW9meu/DQ=="/>
+        </item>
+        <item>
             <title>0.2.5</title>
             <pubDate>Mon, 19 Oct 2026 15:44:44 +0200</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -39,27 +56,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.4-6.zip" length="5092730" type="application/octet-stream" sparkle:edSignature="lXFbFN7U8gvI+meTlabk26QcmB+HSdBazRGSX5s9JJBfdJV6XGYSEyqQ5GjYiQQ/2rabeqVTI14g4I/ZpyAmDw=="/>
         </item>
-        <item>
-            <title>0.2.3</title>
-            <pubDate>Sun, 18 Oct 2026 11:57:21 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>The road no longer flickers in 3D.</strong> The coloured road used to be redrawn every few metres of riding, and it blinked all the time at speed. It is now drawn once and stays put.</li>
-<li><strong>You stay in the middle of the picture.</strong> The camera follows your marker at every distance, Close, Mid or Far, until you move the map yourself. It used to aim a little up the road, and on roads along a hillside that could leave you at the bottom edge or off the screen.</li>
-<li><strong>One marker for you.</strong> A dot on the road marks where you are, drawn over trees and houses. It replaces the light on the road and the beacon over it, which could not be switched off.</li>
-<li><strong>Chevrons are off.</strong> Menu › Chevrons on the road brings them back, without the pulse.</li>
-<li><strong>Updates wait for you.</strong> When an update is ready as Anifora opens, the card waits until you press Restart Now (or Later). It no longer restarts by itself after ten seconds.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.3-5.zip" length="4953114" type="application/octet-stream" sparkle:edSignature="7hfJcG7O2j/a27kRlz02w1ved+n1eyFlwkHrxhXVFSIqRkBVARTWqUiObctQ8CqmV5hC/9oZKi2hFwxoOY9zCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: zF4CfYsmxOpOCzcMsdWM7MRhV0iz9O1pMygLzqqWH1nXXxGT97rDY05AtxMAxGG0+tkPXq61HBfY7ZjZsiqWCw==
-length: 7167
+edSignature: 7e/9ZHP00yf6ruIQOarY2FzofpNQVxepqxPqgPJajRoGvPzUz0BVZHf7cCobTgJ9QCVHciUytsEPyLKQQ17lBw==
+length: 7578
 -->
