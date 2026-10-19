@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Mon, 19 Oct 2026 10:58:00 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>Your road on the street.</strong> A road you import is lined up with the streets of OpenStreetMap on your Mac, so in 3D it lies on the asphalt and follows every hairpin, where it used to cut across bends. You are asked once, as for the finer heights, and only the 4 km map squares the road passes through are sent. A road you imported before: its <strong>…</strong> menu › Line up with the streets.</li>
+<li><strong>Your marker where the gradient is.</strong> The marker, the climb signs and the road's colours now sit where the trainer changes, not tens of metres away on a long road.</li>
+<li><strong>The camera stays above ground.</strong> Starting partway up a road could leave the 3D view looking at the ground from a few metres, with no road; it now flies to you and follows only once the map has caught up.</li>
+<li><strong>Finer heights for roads in France, Switzerland and Austria.</strong> The laser surveys of IGN, swisstopo and BEV join North Rhine-Westphalia's: a road you import there can ride on heights every 20 m, so a short ramp is as steep as it is. As before, Anifora asks first, sends only the 4 km map squares the road passes through, and never the road or a ride.</li>
+<li><strong>Galleries ridden straight.</strong> Avalanche galleries and covered roads join bridges and tunnels: where the laser saw the slope over the roof, the road is ridden straight between its ends.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.4-6.zip" length="5092730" type="application/octet-stream" sparkle:edSignature="lXFbFN7U8gvI+meTlabk26QcmB+HSdBazRGSX5s9JJBfdJV6XGYSEyqQ5GjYiQQ/2rabeqVTI14g4I/ZpyAmDw=="/>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Sun, 18 Oct 2026 11:57:21 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -39,24 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.2-4.zip" length="4957521" type="application/octet-stream" sparkle:edSignature="HczmNGm0s1MsvfTPWCMKZ8rxx7lUW0bddPbDPkjxb3cH4Kqq5LgtKTAl/KbEurNYM0+swBfLYR4dChhqG90/Cw=="/>
         </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Tue, 13 Oct 2026 18:56:13 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>Updates you can follow.</strong> When a new version is there as Anifora opens, a card says what it brings and shows the download as it arrives. When it is ready, Anifora waits for you: Restart Now, or it restarts by itself after ten seconds, as the card says; Later installs it when you quit.</li>
-<li><strong>What's New after an update.</strong> The first time the new version opens, it says so, and lists what changed.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.1-3.zip" length="4883839" type="application/octet-stream" sparkle:edSignature="77U8fVcY3n1YLzc7GlVkOToK3m+W/bfY5QMt7kWPX3ATOBnqwNvj348FHjAavsmtnFxwi0PvCpYwKgbcv3r0Bg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: u+37pPR7Nr0DhXwWcrKpW91VRKKym2N4ofQf5+luOui3Pkqe3goWq5FDHEmc38+2/WK0OA1r4SXO3Csed/jdDg==
-length: 5694
+edSignature: rZFIinRizmbafOICKtiB2CYfyEOCbHhYvkibUDOhcxHBafjeTxvTfM93CdUWsM0s95iBTgiqpn/Ugzte1dwwAQ==
+length: 6672
 -->
