@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.7</title>
+            <pubDate>Tue, 20 Oct 2026 16:05:55 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>Packages.</strong> A new tile on Home opens curated roads by area: the Eifel, the French Alps, the Swiss Alps and the Bergisches Land, each a card with its story and its roads. The Eifel has four loops from about 40 minutes to an afternoon; the Bergisches Land ten hill repeats from one minute to eight, every one in Apple's photographic 3D; every loop says how long it takes you. Real roads read to the metre, free during the beta and yours to keep. The list is fetched when you open the page, and nothing about you is sent. Install adds a pack's roads to your library; Remove puts them in the Trash and keeps your rides.</li>
+<li><strong>Hill repeats show the climb.</strong> The panel at the top left now draws this climb from foot to top, coloured by gradient, with you on it. Between climbs it shows the next one, so you can see what is coming. <strong>Every climb you have ridden races you as a numbered ghost</strong>, on the road and on the profile: you on top, then the fastest climb, down to the slowest — so the tenth climb can be held against the first, not only the ninth. The panel says how you stand against the last climb and the first.</li>
+<li><strong>Steep hills say so.</strong> A road whose steepest stretch is over 12% carries a "Steep" tag — on My roads, in Explore, on a pack's road once installed and on the start line — with the FTP it takes to keep 60 rpm in the easiest gear. If yours is below it, the tag says what it needs, in orange. The road still rides; it is a hint, not a lock.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.7-9.zip" length="5515780" type="application/octet-stream" sparkle:edSignature="SrpbNPEtGeylD3KEGbaS23lfDlG8XxUjW5k60Nz62POyX7KL0Qs7r4vdX/KY35yappQVs2wMA6EiWGTt19tZDA=="/>
+        </item>
+        <item>
             <title>0.2.6</title>
             <pubDate>Mon, 19 Oct 2026 17:14:05 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -38,27 +54,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.5-7.zip" length="5272583" type="application/octet-stream" sparkle:edSignature="bjl75cUy35hOFWceUqzurWZawZpNhdSezRxVXNYWGQ/aTcf0VBtMLoC8JOWXjE6d+eFPrscEl2xI0agsTkG0Dw=="/>
         </item>
-        <item>
-            <title>0.2.4</title>
-            <pubDate>Mon, 19 Oct 2026 10:58:00 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>Your road on the street.</strong> A road you import is lined up with the streets of OpenStreetMap on your Mac, so in 3D it lies on the asphalt and follows every hairpin, where it used to cut across bends. You are asked once, as for the finer heights, and only the 4 km map squares the road passes through are sent. A road you imported before: its <strong>…</strong> menu › Line up with the streets.</li>
-<li><strong>Your marker where the gradient is.</strong> The marker, the climb signs and the road's colours now sit where the trainer changes, not tens of metres away on a long road.</li>
-<li><strong>The camera stays above ground.</strong> Starting partway up a road could leave the 3D view looking at the ground from a few metres, with no road; it now flies to you and follows only once the map has caught up.</li>
-<li><strong>Finer heights for roads in France, Switzerland and Austria.</strong> The laser surveys of IGN, swisstopo and BEV join North Rhine-Westphalia's: a road you import there can ride on heights every 20 m, so a short ramp is as steep as it is. As before, Anifora asks first, sends only the 4 km map squares the road passes through, and never the road or a ride.</li>
-<li><strong>Galleries ridden straight.</strong> Avalanche galleries and covered roads join bridges and tunnels: where the laser saw the slope over the roof, the road is ridden straight between its ends.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.4-6.zip" length="5092730" type="application/octet-stream" sparkle:edSignature="lXFbFN7U8gvI+meTlabk26QcmB+HSdBazRGSX5s9JJBfdJV6XGYSEyqQ5GjYiQQ/2rabeqVTI14g4I/ZpyAmDw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 7e/9ZHP00yf6ruIQOarY2FzofpNQVxepqxPqgPJajRoGvPzUz0BVZHf7cCobTgJ9QCVHciUytsEPyLKQQ17lBw==
-length: 7578
+edSignature: eERLk94/WEgN/6td5r9QNiWTSGmtutMGIGJ13h5mTM3GfYUQZAgmjAvN5pg+8WP8Ydwankekl96+WW1PevEsBw==
+length: 7698
 -->
