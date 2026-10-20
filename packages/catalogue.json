@@ -17,9 +17,9 @@
       "region" : "Nordeifel, Germany",
       "roads" : [
         {
-          "bytes" : 27682,
+          "bytes" : 66721,
           "climbingM" : 311.2,
-          "file" : "eifel/1/eifel-loop-monschau-hoefen.json",
+          "file" : "eifel/2/eifel-loop-monschau-hoefen.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "loop",
           "lengthM" : 16604.7,
@@ -502,16 +502,16 @@
           ],
           "profileStepM" : 80,
           "section" : "loops",
-          "sha256" : "417ae285034cb10971ca91dae8ce32dd8d145bb15880baa544e081b33eceb4ab",
+          "sha256" : "1ac1094aa3f045ec55312116a4365b60baa040e85662569a7ff972e0d19b6927",
           "start" : [
             50.554474,
             6.240781
           ]
         },
         {
-          "bytes" : 48501,
+          "bytes" : 115385,
           "climbingM" : 544.8,
-          "file" : "eifel/1/eifel-loop-rur-valley-schmidt.json",
+          "file" : "eifel/2/eifel-loop-rur-valley-schmidt.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "loop",
           "lengthM" : 29203.9,
@@ -1255,16 +1255,16 @@
           ],
           "profileStepM" : 140,
           "section" : "loops",
-          "sha256" : "f7bccd2296d592a6e807c21cb4f57710ce73e7f7c1e3733a9552cabb33176865",
+          "sha256" : "73daf565f89761999b381a15afb411d7b3ba1b44d4f15284da368e3fa85a6be3",
           "start" : [
             50.691551,
             6.482656
           ]
         },
         {
-          "bytes" : 67223,
+          "bytes" : 166907,
           "climbingM" : 721.4,
-          "file" : "eifel/1/eifel-loop-monschau-upper-rur.json",
+          "file" : "eifel/2/eifel-loop-monschau-upper-rur.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "loop",
           "lengthM" : 42166.5,
@@ -2046,16 +2046,16 @@
           ],
           "profileStepM" : 180,
           "section" : "loops",
-          "sha256" : "31224967c14b8dca5be9b6360a79faec7a905786cacdec2645d9ddf6c5785bb9",
+          "sha256" : "a1198abcf8aa00b4fa1d87cfffd343d38bff63efe477ee64196e78bca0a3d8eb",
           "start" : [
             50.554474,
             6.240781
           ]
         },
         {
-          "bytes" : 102222,
+          "bytes" : 234174,
           "climbingM" : 1069.5,
-          "file" : "eifel/1/eifel-loop-rursee-vogelsang.json",
+          "file" : "eifel/2/eifel-loop-rursee-vogelsang.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "loop",
           "lengthM" : 64221.3,
@@ -3212,16 +3212,16 @@
           ],
           "profileStepM" : 280,
           "section" : "loops",
-          "sha256" : "3a1fb77f7f646c2f914a93d3e903c07e58845879e95f15939f434af507a3e028",
+          "sha256" : "654ad5e42b19daf5dd52e2924dee995003f07bee9993d95170e39903f961df14",
           "start" : [
             50.634089,
             6.476699
           ]
         },
         {
-          "bytes" : 60929,
+          "bytes" : 20745,
           "climbingM" : 346.9,
-          "file" : "eifel/1/vo2max-repeats-1-13-hummeler-strasse-lindweiler.json",
+          "file" : "eifel/2/vo2max-repeats-1-13-hummeler-strasse-lindweiler.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 10495.7,
@@ -3620,16 +3620,16 @@
           ],
           "profileStepM" : 60,
           "section" : "hill-repeats",
-          "sha256" : "efc4b988724c3fcf02301b2ba2042763e1ea5079cff6acc656023de8a1ad4f20",
+          "sha256" : "82212cbaff9fe6dfe91f357293910f58788af7ddabdd894ff91aa4528cec4263",
           "start" : [
             50.458234,
             6.749521
           ]
         },
         {
-          "bytes" : 58276,
+          "bytes" : 17846,
           "climbingM" : 368.2,
-          "file" : "eifel/1/vo2max-repeats-2-12-am-leversbach-leversbach.json",
+          "file" : "eifel/2/vo2max-repeats-2-12-am-leversbach-leversbach.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 9356.3,
@@ -4039,16 +4039,16 @@
           ],
           "profileStepM" : 40,
           "section" : "hill-repeats",
-          "sha256" : "e0d7c4a8c55397ab58473c1fec87a5ebd7a157f63963e97e039726d149faf3fc",
+          "sha256" : "f38d1c19cae037cb131cbb904b395821ee997eac4ae6c99ff5ce36cb5f24de72",
           "start" : [
             50.718306,
             6.473759
           ]
         },
         {
-          "bytes" : 56030,
+          "bytes" : 16627,
           "climbingM" : 321.1,
-          "file" : "eifel/1/vo2max-repeats-2-41-k-64-kerschenbach.json",
+          "file" : "eifel/2/vo2max-repeats-2-41-k-64-kerschenbach.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 8542.7,
@@ -4462,16 +4462,16 @@
           ],
           "profileStepM" : 40,
           "section" : "hill-repeats",
-          "sha256" : "8a88b1018f7b90823da28f07f8a953cf6824c31a182f5ecb92538369486b67c6",
+          "sha256" : "2c64bb6f60f6488d6d86a8e24dcb167558aa574425cd289b8ad1e4c05e3efacc",
           "start" : [
             50.349363,
             6.504926
           ]
         },
         {
-          "bytes" : 61180,
+          "bytes" : 61072,
           "climbingM" : 329.9,
-          "file" : "eifel/1/vo2max-repeats-4-01-schwammenauel-rursee.json",
+          "file" : "eifel/2/vo2max-repeats-4-01-schwammenauel-rursee.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 10561,
@@ -4859,16 +4859,16 @@
           ],
           "profileStepM" : 60,
           "section" : "hill-repeats",
-          "sha256" : "d8ccab6daa83ba0e74d9f5a3031076c4fb3672319c5511270592a98399841e54",
+          "sha256" : "356246e121b5d14a82967164bef3aa8a449f4bfcbba3c94313e7bf9adbb8e239",
           "start" : [
             50.62856,
             6.452553
           ]
         },
         {
-          "bytes" : 52746,
+          "bytes" : 52679,
           "climbingM" : 351.7,
-          "file" : "eifel/1/vo2max-repeats-5-19-zingscheider-strasse-reifferscheid.json",
+          "file" : "eifel/2/vo2max-repeats-5-19-zingscheider-strasse-reifferscheid.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 9519.2,
@@ -5310,16 +5310,16 @@
           ],
           "profileStepM" : 40,
           "section" : "hill-repeats",
-          "sha256" : "b002b67f14b24dd0e87b8191c32e026ccbde405a33d0142fe0cff5d9b5231ec3",
+          "sha256" : "dec42714deaf39ab93986f3a24a02e550139b15ccc925104129dda5777c9e507",
           "start" : [
             50.471593,
             6.475648
           ]
         },
         {
-          "bytes" : 95182,
+          "bytes" : 22557,
           "climbingM" : 393.7,
-          "file" : "eifel/1/vo2max-repeats-6-08-nothener-strasse-bad-munstereifel.json",
+          "file" : "eifel/2/vo2max-repeats-6-08-nothener-strasse-bad-munstereifel.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 11772.5,
@@ -5751,16 +5751,16 @@
           ],
           "profileStepM" : 60,
           "section" : "hill-repeats",
-          "sha256" : "52f519dcb88f8c21dddf5cedb84631e7d251361d3c3aca66c4de99331be5c76d",
+          "sha256" : "4dddd6ed845eb4314fb75c9ba3092902b019b07a6725c62a4f490dbbc6c403e9",
           "start" : [
             50.548886,
             6.763981
           ]
         },
         {
-          "bytes" : 40914,
+          "bytes" : 40881,
           "climbingM" : 272.3,
-          "file" : "eifel/1/vo2max-repeats-6-53-k-63-baasem.json",
+          "file" : "eifel/2/vo2max-repeats-6-53-k-63-baasem.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 8413,
@@ -6078,16 +6078,16 @@
           ],
           "profileStepM" : 40,
           "section" : "hill-repeats",
-          "sha256" : "d5cdedcb47ca77fe3e5e6759386386666e6005b4e9f3ca0d0a96879147feb0d6",
+          "sha256" : "1746fca1b23587c6dce73ac09880effacc8c731aefd79e4f7eaedf35a5a0703c",
           "start" : [
             50.378608,
             6.507493
           ]
         },
         {
-          "bytes" : 54739,
+          "bytes" : 54603,
           "climbingM" : 328.5,
-          "file" : "eifel/1/vo2max-repeats-8-18-durener-strasse-gemund.json",
+          "file" : "eifel/2/vo2max-repeats-8-18-durener-strasse-gemund.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 10032.7,
@@ -6406,7 +6406,7 @@
           ],
           "profileStepM" : 60,
           "section" : "hill-repeats",
-          "sha256" : "f6a9fb02c57ca828bce13f0c4ed796f59150205447e1896ea20e7719a69ce566",
+          "sha256" : "01753166440fcb91bdacde01d107383f9498b9373dcc3a677cb5bc47e3eb9ffa",
           "start" : [
             50.570178,
             6.509888
@@ -6415,7 +6415,7 @@
         {
           "bytes" : 53681,
           "climbingM" : 331.8,
-          "file" : "eifel/1/vo2max-reifferscheid-3-climbs-15-23-hard.json",
+          "file" : "eifel/2/vo2max-reifferscheid-3-climbs-15-23-hard.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "VO₂max road",
           "lengthM" : 10314.3,
@@ -6763,16 +6763,16 @@
           ],
           "profileStepM" : 60,
           "section" : "vo2max-roads",
-          "sha256" : "a0e3b75bf2217f047766df7232d975c44c29242b449f36b87a354c89ab4356ea",
+          "sha256" : "c1f75e031bc0634e8d78eb4ee3c3ce17a41635f8aef81ba29d922dc21d5f227f",
           "start" : [
             50.477197,
             6.462677
           ]
         },
         {
-          "bytes" : 57693,
+          "bytes" : 56611,
           "climbingM" : 235.8,
-          "file" : "eifel/1/vo2max-luckerath-3-climbs-14-36-hard.json",
+          "file" : "eifel/2/vo2max-luckerath-3-climbs-14-36-hard.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "VO₂max road",
           "lengthM" : 11541.3,
@@ -7100,7 +7100,7 @@
           ],
           "profileStepM" : 60,
           "section" : "vo2max-roads",
-          "sha256" : "1a0e0e2fabcb50562516d274d93e0c19c1275426a52e441e444d2ee0971420da",
+          "sha256" : "df4a22a8296a22464b97cdb1c085a98ddba5638aa4d620495839a40081a6be1f",
           "start" : [
             50.577053,
             6.588217
@@ -7109,7 +7109,7 @@
         {
           "bytes" : 63468,
           "climbingM" : 252.5,
-          "file" : "eifel/1/vo2max-embken-3-climbs-16-00-hard.json",
+          "file" : "eifel/2/vo2max-embken-3-climbs-16-00-hard.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "VO₂max road",
           "lengthM" : 12789.7,
@@ -7470,7 +7470,7 @@
           ],
           "profileStepM" : 60,
           "section" : "vo2max-roads",
-          "sha256" : "b92873c4f0bf070500657a43da717a92bc1dda589bacbb464fd4fcf10a2fc985",
+          "sha256" : "6883e654329730f8c97a01f604f9947f800ccaa08a597f3fe7e538b4ec1a9750",
           "start" : [
             50.689832,
             6.573987
@@ -7498,7 +7498,7 @@
       "summary" : "Loops from under an hour to an afternoon, eight hill repeats from one minute to eight, and three VO₂max roads, all on the Eifel's own roads, read to the metre on NRW's laser survey.",
       "tagline" : "The Rursee, Monschau and the high plateau",
       "title" : "Eifel",
-      "version" : 1
+      "version" : 2
     },
     {
       "area" : "French Alps",
@@ -7515,9 +7515,9 @@
       "region" : "France",
       "roads" : [
         {
-          "bytes" : 78008,
+          "bytes" : 153311,
           "climbingM" : 1239.1,
-          "file" : "french-alps/1/col-du-galibier-north.json",
+          "file" : "french-alps/2/col-du-galibier-north.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 18041.2,
@@ -8037,16 +8037,16 @@
             2637.8
           ],
           "profileStepM" : 80,
-          "sha256" : "eba2bb8c1785d708a900ece4b87ab3103a9991403f8bc65c11eb87c440be3449",
+          "sha256" : "b87e8c5b32930d7565bd8094b8cb1c3b2429f4c89a1585705a4c84d5a8322097",
           "start" : [
             45.165586,
             6.429527
           ]
         },
         {
-          "bytes" : 34239,
+          "bytes" : 70914,
           "climbingM" : 583.7,
-          "file" : "french-alps/1/col-du-galibier-south.json",
+          "file" : "french-alps/2/col-du-galibier-south.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 8621.8,
@@ -8441,16 +8441,16 @@
             2640.8
           ],
           "profileStepM" : 40,
-          "sha256" : "786379a3725663932fe0824f235318c782261c5db07e36237a3ebf76d9ceed76",
+          "sha256" : "1a9a2d3ae9f2a20bb5962f72408b9db6ad111591f27d852f9c91ca582b739fa1",
           "start" : [
             45.035533,
             6.40516
           ]
         },
         {
-          "bytes" : 52777,
+          "bytes" : 106023,
           "climbingM" : 941.3,
-          "file" : "french-alps/1/col-de-l-iseran-north-west.json",
+          "file" : "french-alps/2/col-de-l-iseran-north-west.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 16275.3,
@@ -8884,16 +8884,16 @@
             2762.9
           ],
           "profileStepM" : 80,
-          "sha256" : "12eed8791942963be11f6cee8abffa51059d0f26219d26cb7e16f9cd3d2c2f2e",
+          "sha256" : "8facd8e7358efb6f1ff9c43068af2aac9cab75a3f3c301c9ea9e848adbb0b582",
           "start" : [
             45.449515,
             6.978742
           ]
         },
         {
-          "bytes" : 47171,
+          "bytes" : 93953,
           "climbingM" : 977.7,
-          "file" : "french-alps/1/col-de-l-iseran-south.json",
+          "file" : "french-alps/2/col-de-l-iseran-south.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 13479.2,
@@ -9296,16 +9296,16 @@
             2764.5
           ],
           "profileStepM" : 60,
-          "sha256" : "3ab183136309e20f3917d139bff525620ba963322293ea11a64a077e5758322d",
+          "sha256" : "b0aeaa50602b0825fcf54b41667e5e2aeb3830755b26acf91f960d98bc0d7f8f",
           "start" : [
             45.370631,
             7.046746
           ]
         },
         {
-          "bytes" : 81593,
+          "bytes" : 166395,
           "climbingM" : 1149.9,
-          "file" : "french-alps/1/col-d-izoard-north-west.json",
+          "file" : "french-alps/2/col-d-izoard-north-west.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 19223.8,
@@ -9856,16 +9856,16 @@
             2360.2
           ],
           "profileStepM" : 100,
-          "sha256" : "fe0bd94daf5fadaf0292929c57e908d10c44d4f35ea2e968b263791e4ce54264",
+          "sha256" : "3132eba86a0410aad6877c6673bc3fa9e6beced13c6a9fc9a68e4b4ec6b7d9c2",
           "start" : [
             44.894965,
             6.636732
           ]
         },
         {
-          "bytes" : 112022,
+          "bytes" : 221822,
           "climbingM" : 1357.6,
-          "file" : "french-alps/1/col-d-izoard-south.json",
+          "file" : "french-alps/2/col-d-izoard-south.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 30311.2,
@@ -10536,16 +10536,16 @@
             2356.5
           ],
           "profileStepM" : 140,
-          "sha256" : "b6cac2423fcf84b65875112782247ac4e284dae6cc0292eaf0acb5f6953b5635",
+          "sha256" : "67aea62fe0e4014bbf1d0492fe40137c94c0ac87480917a6bbaed72564557c6d",
           "start" : [
             44.659813,
             6.649412
           ]
         },
         {
-          "bytes" : 24560,
+          "bytes" : 48538,
           "climbingM" : 542.5,
-          "file" : "french-alps/1/col-de-la-croix-de-fer-east.json",
+          "file" : "french-alps/2/col-de-la-croix-de-fer-east.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 6590.3,
@@ -10841,16 +10841,16 @@
             2065.2
           ],
           "profileStepM" : 40,
-          "sha256" : "61b08b6ed596bb80a7a219f4bfbb99d3e1fde282edce7c1d2de61e765f9452e7",
+          "sha256" : "03a47be3ab11c2793a8e349a0e729136f11f5eacf3288c29d8cf7d884def670a",
           "start" : [
             45.221307,
             6.229016
           ]
         },
         {
-          "bytes" : 77476,
+          "bytes" : 154124,
           "climbingM" : 1249.8,
-          "file" : "french-alps/1/col-de-la-croix-de-fer-south-west.json",
+          "file" : "french-alps/2/col-de-la-croix-de-fer-south-west.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 25885.7,
@@ -11352,16 +11352,16 @@
             2061.1
           ],
           "profileStepM" : 120,
-          "sha256" : "02b8c9e9a2dacbdf5db126c92c3c741010dbcdb0b2c86ad3c9cbf6a9f41265d0",
+          "sha256" : "e9633add2cee01ff985c2339014423aeccc90b1d5a2f2d9464815bb64d19ab3c",
           "start" : [
             45.138591,
             6.042997
           ]
         },
         {
-          "bytes" : 83566,
+          "bytes" : 167412,
           "climbingM" : 1499,
-          "file" : "french-alps/1/col-de-la-bonette-north-west.json",
+          "file" : "french-alps/2/col-de-la-bonette-north-west.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 22526.2,
@@ -12009,16 +12009,16 @@
             2710.9
           ],
           "profileStepM" : 100,
-          "sha256" : "2ef5b3a85f6de569eef84b60a7d6a85ee45ea1750a4820268c383247ee7b95bd",
+          "sha256" : "32a499b85a0a72e249697ce4bfceffa2bcdb5b5bcf071a95bf74092d3ab2ff36",
           "start" : [
             44.419509,
             6.733941
           ]
         },
         {
-          "bytes" : 83870,
+          "bytes" : 168295,
           "climbingM" : 1568.8,
-          "file" : "french-alps/1/col-de-la-bonette-south-east.json",
+          "file" : "french-alps/2/col-de-la-bonette-south-east.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 24644.7,
@@ -12614,16 +12614,16 @@
             2709.4
           ],
           "profileStepM" : 120,
-          "sha256" : "895544f39e9c69643da7cee72c830d196f7258262dc6c645ad295fb09a715061",
+          "sha256" : "e1d755f7408f91da0f61c20cd274a7d03c60b81ab8a0eb1d431a5b2d6912e0fa",
           "start" : [
             44.257843,
             6.925199
           ]
         },
         {
-          "bytes" : 69248,
+          "bytes" : 136250,
           "climbingM" : 1106.6,
-          "file" : "french-alps/1/col-de-vars-north.json",
+          "file" : "french-alps/2/col-de-vars-north.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 19643.5,
@@ -13194,16 +13194,16 @@
             2108.7
           ],
           "profileStepM" : 100,
-          "sha256" : "d967fb28e3a0a713834572efc8391c3c316580e567974fd62f8d6973c8e3fb45",
+          "sha256" : "56bf8449c7b5c35de3e337228d1dd038de2de897ea1f4289f6c77d6d4d0c1e5a",
           "start" : [
             44.659813,
             6.649412
           ]
         },
         {
-          "bytes" : 26503,
+          "bytes" : 53154,
           "climbingM" : 639.6,
-          "file" : "french-alps/1/col-de-vars-south-east.json",
+          "file" : "french-alps/2/col-de-vars-south-east.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 8252.7,
@@ -13560,16 +13560,16 @@
             2108.8
           ],
           "profileStepM" : 40,
-          "sha256" : "b1350f2c565c567b8f63f542beeb184cf67cf34db27b6b28e294bb18c719260e",
+          "sha256" : "aa2ae01d339bc3d0b9425623a1e80e24e14833b154e98b533b1b68a4ca8f08bb",
           "start" : [
             44.514989,
             6.751105
           ]
         },
         {
-          "bytes" : 92168,
+          "bytes" : 175374,
           "climbingM" : 1202.4,
-          "file" : "french-alps/1/col-de-la-cayolle-north-west.json",
+          "file" : "french-alps/2/col-de-la-cayolle-north-west.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 27942.1,
@@ -14189,16 +14189,16 @@
             2326.1
           ],
           "profileStepM" : 120,
-          "sha256" : "829f150087fe627d7364f7265d6ac84a5c914ffe97fa6eb71638ee2c397f73a2",
+          "sha256" : "4c102b5a7f1f8796e060fd41bf39935b9e8705375f428543fc791de922ae337f",
           "start" : [
             44.382521,
             6.632592
           ]
         },
         {
-          "bytes" : 72191,
+          "bytes" : 139067,
           "climbingM" : 1280.5,
-          "file" : "french-alps/1/col-de-la-cayolle-south-east.json",
+          "file" : "french-alps/2/col-de-la-cayolle-south-east.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 20388.6,
@@ -14797,16 +14797,16 @@
             2326.1
           ],
           "profileStepM" : 100,
-          "sha256" : "7f636714694821d893b747afe38cd532459f95b866b21e4a22b1c78e5172e323",
+          "sha256" : "8225b1d11716566c1ac2c1a662b5f63723a170e013c2ec50afd44a0dbe434f79",
           "start" : [
             44.142463,
             6.761352
           ]
         },
         {
-          "bytes" : 65056,
+          "bytes" : 123818,
           "climbingM" : 1120.7,
-          "file" : "french-alps/1/col-d-allos-north-east.json",
+          "file" : "french-alps/2/col-d-allos-north-east.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 18238.6,
@@ -15377,16 +15377,16 @@
             2244.4
           ],
           "profileStepM" : 80,
-          "sha256" : "2f9ef88e3c53bb2a432e7cce22642b0e9ab1a17b352576c2c50a2d8d83b5a145",
+          "sha256" : "10b3d87c455aefe7ae16bbdf9a661eb48de348a5b1a3ee420264c5b6976d0e4f",
           "start" : [
             44.382521,
             6.632592
           ]
         },
         {
-          "bytes" : 54423,
+          "bytes" : 104222,
           "climbingM" : 813.9,
-          "file" : "french-alps/1/col-d-allos-south.json",
+          "file" : "french-alps/2/col-d-allos-south.json",
           "heights" : "Laser (IGN LiDAR HD)",
           "kind" : "pass",
           "lengthM" : 14770,
@@ -15809,7 +15809,7 @@
             2242.5
           ],
           "profileStepM" : 80,
-          "sha256" : "47f54e50720d8a12f0d7caa40246bef253526ebb253f2f4b4c424c9019527627",
+          "sha256" : "97bf8ef238784e44de22201857734a2386324bb149d4d0fba580808774bdab7f",
           "start" : [
             44.24084,
             6.628885
@@ -15819,7 +15819,7 @@
       "summary" : "Eight great cols of the French Alps, both sides each, from the village to the pass sign — Galibier, Iseran, Izoard, Croix de Fer, Bonette, Vars, Cayolle and Allos, read to the metre on IGN's laser survey.",
       "tagline" : "Galibier, Iseran, Izoard and the high cols",
       "title" : "French high Alps",
-      "version" : 1
+      "version" : 2
     },
     {
       "area" : "Swiss Alps",
@@ -15836,9 +15836,9 @@
       "region" : "Switzerland",
       "roads" : [
         {
-          "bytes" : 39988,
+          "bytes" : 82679,
           "climbingM" : 671.6,
-          "file" : "swiss-passes/1/furka-pass-west.json",
+          "file" : "swiss-passes/2/furka-pass-west.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 10359.9,
@@ -16173,16 +16173,16 @@
             2428.7
           ],
           "profileStepM" : 60,
-          "sha256" : "5de2ef94be46ec737214ac090fb1ec5d8105d289845ae30d122fadbc9cd6fc72",
+          "sha256" : "651d2e0e2bf13af8ddca686af03f67e026e3c35e954eba57ac36941a5d3552ab",
           "start" : [
             46.562167,
             8.36159
           ]
         },
         {
-          "bytes" : 47354,
+          "bytes" : 95568,
           "climbingM" : 888.9,
-          "file" : "swiss-passes/1/furka-pass-north-east.json",
+          "file" : "swiss-passes/2/furka-pass-north-east.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 12207.9,
@@ -16600,16 +16600,16 @@
             2428.6
           ],
           "profileStepM" : 60,
-          "sha256" : "16a4be805e00227d0c0b47b35b7cbcbf2a86fcd4c183c2516642cb56a649ad20",
+          "sha256" : "f9f4202e2a2e80199c9cbf156f81bb5dad514540277553658be7a8c9067f6a28",
           "start" : [
             46.598754,
             8.502129
           ]
         },
         {
-          "bytes" : 99217,
+          "bytes" : 198717,
           "climbingM" : 1538.8,
-          "file" : "swiss-passes/1/grimsel-pass-north-west.json",
+          "file" : "swiss-passes/2/grimsel-pass-north-west.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 26312.4,
@@ -17207,16 +17207,16 @@
             2164.1
           ],
           "profileStepM" : 120,
-          "sha256" : "7e4db8a77ee51f567b3f2f1c2da738d11b6debc946125c87a9ad087692be581d",
+          "sha256" : "4bc91d91742d19189070837be4835dcf88f9ede06d58916653b32cda59f808dc",
           "start" : [
             46.705802,
             8.229034
           ]
         },
         {
-          "bytes" : 26373,
+          "bytes" : 54347,
           "climbingM" : 407.5,
-          "file" : "swiss-passes/1/grimsel-pass-east.json",
+          "file" : "swiss-passes/2/grimsel-pass-east.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 5983.7,
@@ -17473,16 +17473,16 @@
             2164.5
           ],
           "profileStepM" : 40,
-          "sha256" : "78d29ca1c83ae993e1e0cc4fcaba9ad7a7ea40fb9870123f748f97c61a2b7505",
+          "sha256" : "0715832ecba7ce2afbe84d8260952f7c5404230be569144bc557ea5a1e08959e",
           "start" : [
             46.562167,
             8.36159
           ]
         },
         {
-          "bytes" : 107973,
+          "bytes" : 214784,
           "climbingM" : 1595.1,
-          "file" : "swiss-passes/1/susten-pass-west.json",
+          "file" : "swiss-passes/2/susten-pass-west.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 27580,
@@ -18138,16 +18138,16 @@
             2214.4
           ],
           "profileStepM" : 120,
-          "sha256" : "585b29392017e45a7438b81b5d507882d2ca0275a2d358859c536f95fd897281",
+          "sha256" : "85ab3c1672e9bb5de46c9659088b69fae47c9e3ce95eb10ad410b694f817ef71",
           "start" : [
             46.705888,
             8.229264
           ]
         },
         {
-          "bytes" : 68530,
+          "bytes" : 133215,
           "climbingM" : 1308.3,
-          "file" : "swiss-passes/1/susten-pass-east.json",
+          "file" : "swiss-passes/2/susten-pass-east.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 18032.9,
@@ -18619,16 +18619,16 @@
             2222
           ],
           "profileStepM" : 80,
-          "sha256" : "ce3688e75dbc667da1894e014c5adf2b8441ba0201c60f726602f885e8e00ac8",
+          "sha256" : "1904b646d0ea14025f3d9642a75da2c5bb66119d49e1aa6c8cf02b5a86821aac",
           "start" : [
             46.706823,
             8.599783
           ]
         },
         {
-          "bytes" : 71960,
+          "bytes" : 140856,
           "climbingM" : 1327.6,
-          "file" : "swiss-passes/1/nufenen-pass-passo-della-novena-east.json",
+          "file" : "swiss-passes/2/nufenen-pass-passo-della-novena-east.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 22858.1,
@@ -19151,16 +19151,16 @@
             2479.1
           ],
           "profileStepM" : 100,
-          "sha256" : "e6754da955c8dfc0ea6fa6b66f2352e9a96329fbe44d92c34703aa0de5b9042b",
+          "sha256" : "8ba2e03830a2038d840646143286e766f4344b914506c2a79618e58d09810fa2",
           "start" : [
             46.528537,
             8.603115
           ]
         },
         {
-          "bytes" : 53474,
+          "bytes" : 106791,
           "climbingM" : 1133.4,
-          "file" : "swiss-passes/1/nufenen-pass-passo-della-novena-north-west.json",
+          "file" : "swiss-passes/2/nufenen-pass-passo-della-novena-north-west.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 13979.5,
@@ -19612,16 +19612,16 @@
             2478.8
           ],
           "profileStepM" : 60,
-          "sha256" : "03dd183e610381b0d21418a699e1369e6ea3b62555b11bb3b96d544bf636eff8",
+          "sha256" : "4a257713bafcf5cbe49af02688d1c7ec5c3ee0b127e6df8d7bec3c97849c8449",
           "start" : [
             46.506927,
             8.306849
           ]
         },
         {
-          "bytes" : 35735,
+          "bytes" : 74688,
           "climbingM" : 625.7,
-          "file" : "swiss-passes/1/albula-pass-east.json",
+          "file" : "swiss-passes/2/albula-pass-east.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 9183.2,
@@ -19982,16 +19982,16 @@
             2311.3
           ],
           "profileStepM" : 40,
-          "sha256" : "7065c4a5a2b75ad62050e540448e0ce177c3e4af3ea91786fc36b96fef687df2",
+          "sha256" : "a6b8cd76888709475f7008b64c903de7aa3e37dc55505a5629221fa7bbb83ae9",
           "start" : [
             46.57866,
             9.926316
           ]
         },
         {
-          "bytes" : 65022,
+          "bytes" : 127985,
           "climbingM" : 946.4,
-          "file" : "swiss-passes/1/albula-pass-north-west.json",
+          "file" : "swiss-passes/2/albula-pass-north-west.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 13606.7,
@@ -20437,16 +20437,16 @@
             2311.2
           ],
           "profileStepM" : 60,
-          "sha256" : "6efcb38ce3bbea4abad094ace0460c6652069d9db5c670f93283af97315605a9",
+          "sha256" : "d04e2bb0bd49f97c94aa306c00d20198a679bf59f2e5d38c33cdb8786d8213e9",
           "start" : [
             46.628927,
             9.745536
           ]
         },
         {
-          "bytes" : 22933,
+          "bytes" : 45693,
           "climbingM" : 474.1,
-          "file" : "swiss-passes/1/julier-pass-passo-del-giulia-east.json",
+          "file" : "swiss-passes/2/julier-pass-passo-del-giulia-east.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 6989.5,
@@ -20720,16 +20720,16 @@
             2283.4
           ],
           "profileStepM" : 40,
-          "sha256" : "b9a7e4b6b46f984b11743c741a5f92e24b00a1de67dd50b04e09acec0d300756",
+          "sha256" : "97980661a1566094114bb87eec8500ca2b66d0eb82bf58fd77e16ff46217562a",
           "start" : [
             46.46019,
             9.796399
           ]
         },
         {
-          "bytes" : 126521,
+          "bytes" : 246364,
           "climbingM" : 1435.6,
-          "file" : "swiss-passes/1/julier-pass-passo-del-giulia-north-west.json",
+          "file" : "swiss-passes/2/julier-pass-passo-del-giulia-north-west.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 35997.4,
@@ -21457,16 +21457,16 @@
             2283.4
           ],
           "profileStepM" : 160,
-          "sha256" : "e09803bcf61f63530db69fc08a35a84e021585bcd144ab999a105c5dc08a9809",
+          "sha256" : "82db9a86a9ed7a0a112d41c67c277ecc235ef1547d31ac4954144e0ddb644337",
           "start" : [
             46.662421,
             9.577714
           ]
         },
         {
-          "bytes" : 50846,
+          "bytes" : 94995,
           "climbingM" : 957.6,
-          "file" : "swiss-passes/1/fluela-pass-pass-dal-fluela-east.json",
+          "file" : "swiss-passes/2/fluela-pass-pass-dal-fluela-east.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 12729.1,
@@ -21893,16 +21893,16 @@
             2383.4
           ],
           "profileStepM" : 60,
-          "sha256" : "71f5ffa20f07a2c15feed5c4f466879138c4c3d35be6f230adb36127c7c3b4e1",
+          "sha256" : "d37f8612e618e08773723bf0c9ea650ad5ea310f971e74ddd427c5d48edba990",
           "start" : [
             46.749476,
             10.079125
           ]
         },
         {
-          "bytes" : 54594,
+          "bytes" : 107722,
           "climbingM" : 831.5,
-          "file" : "swiss-passes/1/fluela-pass-pass-dal-fluela-north-west.json",
+          "file" : "swiss-passes/2/fluela-pass-pass-dal-fluela-north-west.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 13887.1,
@@ -22308,16 +22308,16 @@
             2383.6
           ],
           "profileStepM" : 60,
-          "sha256" : "0a6d47fb01de12f4e98be0975c9ad26ddee18e871f7a0b198c8650468ab2564f",
+          "sha256" : "ed248d46a88f90ed40c988dfd9e2539255655e02191e2a2c93d1df755894bdcf",
           "start" : [
             46.806463,
             9.838455
           ]
         },
         {
-          "bytes" : 46893,
+          "bytes" : 89484,
           "climbingM" : 511.2,
-          "file" : "swiss-passes/1/bernina-pass-north-west.json",
+          "file" : "swiss-passes/2/bernina-pass-north-west.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 14702.7,
@@ -22692,16 +22692,16 @@
             2327.3
           ],
           "profileStepM" : 80,
-          "sha256" : "5c7f19daf960b659edff8184e8b5fb188e99bc488f9b8fa54acb706e976d59d8",
+          "sha256" : "ee701d1a431826fce1f8e5f8eb3a9bdf7c7a1ad22c7c7a68334d8be42008fba8",
           "start" : [
             46.489831,
             9.904426
           ]
         },
         {
-          "bytes" : 76076,
+          "bytes" : 131191,
           "climbingM" : 1313.4,
-          "file" : "swiss-passes/1/bernina-pass-south.json",
+          "file" : "swiss-passes/2/bernina-pass-south.json",
           "heights" : "Laser (swissALTI3D)",
           "kind" : "pass",
           "lengthM" : 17805.3,
@@ -23258,7 +23258,7 @@
             2326.3
           ],
           "profileStepM" : 80,
-          "sha256" : "1a9fee31a89acbd7c812603304cc6912e31fbff20d54de2bdfbc6ac2e93496e3",
+          "sha256" : "8324c62e3bb0b3532bda9aed64c2975e76f0a4cc9c1cb70fc03e123b2a7b5e96",
           "start" : [
             46.326427,
             10.058076
@@ -23268,7 +23268,7 @@
       "summary" : "The Furka, Grimsel and Susten that make the three-pass day, with the Nufenen, Albula, Julier, Flüela and Bernina — both sides each, on swisstopo's laser model.",
       "tagline" : "Furka, Grimsel, Susten and the passes of Graubünden",
       "title" : "Swiss passes",
-      "version" : 1
+      "version" : 2
     },
     {
       "area" : "Bergisches Land",
@@ -23285,9 +23285,9 @@
       "region" : "Bergisches Land, Germany",
       "roads" : [
         {
-          "bytes" : 70525,
+          "bytes" : 63454,
           "climbingM" : 300,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-1-05-anemonenstrasse-ronsdorf.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-1-05-anemonenstrasse-ronsdorf.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 12287.2,
@@ -23823,7 +23823,7 @@
             288.5
           ],
           "profileStepM" : 60,
-          "sha256" : "4946676016512d97924c7814548512eedf8fe44f5597f724e224972798a2e1b6",
+          "sha256" : "e9ebb51e5141e8a74fefa891f9f4b95b6a6928ef10dc2ea3e746b0d4a817b0b7",
           "start" : [
             51.221001,
             7.206199
@@ -23832,7 +23832,7 @@
         {
           "bytes" : 16211,
           "climbingM" : 338.6,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-1-29-jungholz-menrath.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-1-29-jungholz-menrath.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 9560.6,
@@ -24251,7 +24251,7 @@
         {
           "bytes" : 16711,
           "climbingM" : 339.8,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-2-05-stoffelsberg-nollenberg.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-2-05-stoffelsberg-nollenberg.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 8617.7,
@@ -24752,9 +24752,9 @@
           ]
         },
         {
-          "bytes" : 18472,
+          "bytes" : 54354,
           "climbingM" : 329.6,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-2-31-kreuzkauler-weg-gebermuhle.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-2-31-kreuzkauler-weg-gebermuhle.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 10720.6,
@@ -25128,7 +25128,7 @@
             169.8
           ],
           "profileStepM" : 60,
-          "sha256" : "d3cf0fa38461f52ab3b22875c85c06326338e2e95822397e102b3b4d7027cf53",
+          "sha256" : "c55678bf6a18f5300af0ed3ffa81fdda44739196d844d0231244c3ec70f877e8",
           "start" : [
             50.84421,
             7.258784
@@ -25137,7 +25137,7 @@
         {
           "bytes" : 16913,
           "climbingM" : 341.7,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-3-01-wand-von-sand.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-3-01-wand-von-sand.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 9654.1,
@@ -25576,9 +25576,9 @@
           ]
         },
         {
-          "bytes" : 17889,
+          "bytes" : 52898,
           "climbingM" : 313.1,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-3-49-wiesenthal-herrenstrunden.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-3-49-wiesenthal-herrenstrunden.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 10684.4,
@@ -25919,16 +25919,16 @@
             212.1
           ],
           "profileStepM" : 60,
-          "sha256" : "35b4233ead433892c9c7e7559e44609db574ca32525c5bf25ee9cc92b1b823ee",
+          "sha256" : "5b510321f19e0bbd5c233a2c07bbd1262913994cec3489fd72802a4da76a8b2f",
           "start" : [
             51.005012,
             7.177653
           ]
         },
         {
-          "bytes" : 16114,
+          "bytes" : 51190,
           "climbingM" : 313,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-4-48-staplackstrasse-delstern.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-4-48-staplackstrasse-delstern.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 9622.4,
@@ -26255,16 +26255,16 @@
             225.5
           ],
           "profileStepM" : 60,
-          "sha256" : "486139d55ba1a4d82105de3cdd5fc452a1d9b1c4ec50b441522e990506bdf48c",
+          "sha256" : "43628d34e51e603fe226fafb1774819382eabca8e832baf962c00ab318e8dfc9",
           "start" : [
             51.343302,
             7.507447
           ]
         },
         {
-          "bytes" : 18003,
+          "bytes" : 58566,
           "climbingM" : 353,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-5-38-barbroich-oberselbach.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-5-38-barbroich-oberselbach.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 10733.3,
@@ -26690,16 +26690,16 @@
             243.2
           ],
           "profileStepM" : 60,
-          "sha256" : "d67884cdbe55f73a38b0ddbd6af4e68a0b4e9379258b67954b9565637967e309",
+          "sha256" : "db194f54a407adb4475ca392bcac960ecac373bb6f8c388c33509087b4fad2dc",
           "start" : [
             50.99125,
             7.243761
           ]
         },
         {
-          "bytes" : 12563,
+          "bytes" : 37653,
           "climbingM" : 298.2,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-7-05-friedrichshammer-kohlfurth.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-7-05-friedrichshammer-kohlfurth.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 7158.1,
@@ -27013,16 +27013,16 @@
             255
           ],
           "profileStepM" : 40,
-          "sha256" : "95ec577e05f96c50297b91aadc4f6ead589ffbbea0ceda624ec64c0467f1a658",
+          "sha256" : "97320ab368a4be5ea960ced35b9b45949addc64c8b7151dd1e70534d4d8708e9",
           "start" : [
             51.191027,
             7.111063
           ]
         },
         {
-          "bytes" : 16209,
+          "bytes" : 57183,
           "climbingM" : 290.9,
-          "file" : "nrw-hill-repeats/1/vo2max-repeats-7-48-balkhauser-weg-pfaffenberg.json",
+          "file" : "nrw-hill-repeats/2/vo2max-repeats-7-48-balkhauser-weg-pfaffenberg.json",
           "heights" : "Laser (Geobasis NRW)",
           "kind" : "hill repeats",
           "lengthM" : 9645.6,
@@ -27338,7 +27338,7 @@
             226.9
           ],
           "profileStepM" : 60,
-          "sha256" : "6efe44cf80ee4e0962144463fc525ee7e36510a5a0948fa3dddee58f9ba3fbb1",
+          "sha256" : "7bad95da0d467b0b089f29c5e529ac357630e61bbc412ee018e58047f88832b8",
           "start" : [
             51.134178,
             7.112999
@@ -27348,7 +27348,7 @@
       "summary" : "Ten real hills from one to eight minutes, each with how many times up makes a VO₂max session and a target for every climb. Found among 1,174 hills by Anifora's RoadScan.",
       "tagline" : "Ten hills, from one minute to eight",
       "title" : "NRW hill repeats",
-      "version" : 1
+      "version" : 2
     }
   ],
   "schemaVersion" : 2
