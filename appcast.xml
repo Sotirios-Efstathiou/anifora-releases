@@ -6,6 +6,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.9</title>
+            <pubDate>Sun, 25 Oct 2026 19:34:34 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>The power bar shows your zone.</strong> Only the zone you are in lights up, with a pin at your watts. <strong>Drag the pin</strong> and the trainer holds those watts in ERG instead of your gears; the gear panel turns into the watts held, with ± and <strong>Back to gears</strong> (or press <strong>G</strong>). On a climb you hold in a zone, the pin fine-tunes that climb's watts.</li>
+<li><strong>How you sit moved to the ride menu</strong> (Esc) in 3D, and stays on ↑ ↓. The gear panel is smaller.</li>
+<li><strong>The top left says ERG</strong> while a climb is held in a zone — it used to show the road's own number.</li>
+</ul>
+<ul>
+<li><strong>A quieter ride screen in 3D.</strong> Lap, Pause and Stop no longer sit at the top of the road for the whole ride. Press <strong>Esc</strong>, or <strong>Menu</strong> at the top right, for the ride menu: Pause, Lap and End ride, how the climb is ridden, the intensity, power match, Devices, Leave 3D and the other pages. The ride carries on while the menu is open. <strong>Space</strong> pauses and resumes, and End ride asks once more before it ends the ride.</li>
+<li><strong>A smaller Start.</strong> Before the ride, one small bar above the profile shows what is ready (rider, trainer, heart rate) next to the Start button. Until a trainer is connected the button reads <strong>Connect trainer</strong> and opens Devices; once it is connected it turns green, and Return starts.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.9-11.zip" length="5626654" type="application/octet-stream" sparkle:edSignature="lBXsC3jlp8nHLoVPOhl825FFHQpVdgisUZRXEk2jdm0lk5fBc1Jcz60SmBeRNUuLC+lhkZoptcyNw5u2hcGXAQ=="/>
+        </item>
+        <item>
             <title>0.2.8</title>
             <pubDate>Sun, 25 Oct 2026 17:58:53 +0100</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -37,26 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.7-9.zip" length="5515780" type="application/octet-stream" sparkle:edSignature="SrpbNPEtGeylD3KEGbaS23lfDlG8XxUjW5k60Nz62POyX7KL0Qs7r4vdX/KY35yappQVs2wMA6EiWGTt19tZDA=="/>
         </item>
-        <item>
-            <title>0.2.6</title>
-            <pubDate>Mon, 19 Oct 2026 17:14:05 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>Choose a road on the map.</strong> The + on Home's road slot opens Explore: every road on the map, and filters for what you want from the ride — what its climbs are good for (VO₂max, threshold, a long climb, steady endurance), how long it takes you, how big its biggest climb is (Strava's categories), ridden or not yet, and the kind of road. Each choice says how many roads it would leave. Times and climbs are worked out for your FTP and weight. Pick a road, then Choose.</li>
-<li><strong>Import a GPX from Explore.</strong> Import GPX… at the top of Explore, or drop a file anywhere on it: the road is brought in as on My roads, asked about streets and heights the same way, and the map flies to it.</li>
-<li><strong>Right-click a road in Explore's list</strong> to ride (or choose) it, show it on the map, look at it in 3D, show its original file, or move one of your own roads to the Trash — with its original file, as on My roads. Its rides stay.</li>
-<li><strong>Looking up streets and heights shows how far it has got.</strong> A bar counts the road's map squares as OpenStreetMap and the laser survey answer, with the seconds on the one being asked — and when OpenStreetMap's server is busy or down it says so ("not answering (502) — asking again in 20 s, try 3 of 5"). A server that is down now gives up after one round of tries instead of three, and Try again asks once more.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.6-8.zip" length="5377715" type="application/octet-stream" sparkle:edSignature="RTwV1gGOSTPS4UNYid28bM29QnxcSvjII0nHstZPDd/Vq+fiASxLgusCqT6XmZ9SgnTLsIVYhqXGfcW9meu/DQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ni0HxNMKTQ6waOx8FSqtrW92s206tQBpqXt/htqjQ+n0BKvs7mo3CH4rh5bn117rFQTQzkq9w2Jmh2sdwL/TBA==
-length: 7775
+edSignature: h6rAiPQaJ2v8JPnVI4jGjW2z7NSzpcY2Q+osgWMocg2jdUK2MhOUc819JZcEUqa75ZlIgiDMQzqaYorQpKToBw==
+length: 7817
 -->
