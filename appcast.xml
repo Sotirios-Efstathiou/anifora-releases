@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.8</title>
+            <pubDate>Sun, 25 Oct 2026 17:58:53 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>An intro before hill repeats.</strong> Press Start on a hill repeat and the camera first circles the climb once, the whole of it in view, with one card beside it: the climb, the power to hold, how long each time up and each rest take you, and the whole session. Then it comes down to you and the ride begins right there, with the panels fading back in. Ride, Esc or Space start the ride at once. Press <strong>I</strong> any time, on the start line or during the ride, to watch it again.</li>
+<li><strong>Hold a climb in a zone.</strong> On a road, the climb card that comes up a minute before each climb now has five small buttons, Z1 to Z5, each with its watts. Pick one (or press 1–5) and the trainer holds that power from the foot to the top, whatever gear you are in. At the top the ride goes back to how you were riding. Zones you could not hold to the top are greyed out, worked out from your own threshold and reserve; hover over one to see why. If your reserve runs out or you stop pedalling, the climb is let go and the card says so. Press the same button again, or 0, to let it go yourself.</li>
+<li><strong>Auto shift keeps up at the foot of a climb.</strong> Coming off a descent in a big gear, auto shift now makes one big shift straight to the gear for the climb ahead, like dropping to the small chainring, instead of one gear every two seconds. It also no longer holds a hard gear because your power fell under its floor while your cadence was collapsing.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.8-10.zip" length="5576357" type="application/octet-stream" sparkle:edSignature="DQtCF9ONRa2VT+XwkwzKAmRSx68TbWAKwn+eRsDHkbOUR7RhTEYPZkEnDC3U0iPkrLhgIDRwa3em/o2sfeIZAA=="/>
+        </item>
+        <item>
             <title>0.2.7</title>
             <pubDate>Tue, 20 Oct 2026 16:05:55 +0200</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -38,25 +54,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.6-8.zip" length="5377715" type="application/octet-stream" sparkle:edSignature="RTwV1gGOSTPS4UNYid28bM29QnxcSvjII0nHstZPDd/Vq+fiASxLgusCqT6XmZ9SgnTLsIVYhqXGfcW9meu/DQ=="/>
         </item>
-        <item>
-            <title>0.2.5</title>
-            <pubDate>Mon, 19 Oct 2026 15:44:44 +0200</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>Explore: every road on one map.</strong> A new page (⌘8) shows all your roads on the satellite map from above, coloured by their steepness as in the ride — or by whether you have ridden them, or by kind. Point at one to see its length, climbing, its climbs, where its heights came from and how often you have ridden it; click it for its profile, a look along it in 3D, or Ride. The list beside the map shows the roads in view first, with search and filters.</li>
-<li><strong>Gears back when the workout is done.</strong> A workout on a road used to hold you at an easy ERG wattage once it had finished, in whatever gear the last block left. Now the ride goes over to the road and your gears at once, in an easy gear, so you can ride on and shift as you like.</li>
-<li><strong>A ride's summary tells the road.</strong> After a ride on a road — a pass, your own road, or a workout on one — the summary shows what you rode in 3D on the satellite map (drag, pinch and turn to look around), the profile in the gradient's colours, where you started and finished, distance, metres climbed and descended, the highest point and the steepest ramp, and every climb with its time, VAM, watts, heart rate and cadence. The top of the summary is new too: time, distance, climbing, speed, watts and TSS at a glance, the rest grouped by effort, heart and legs. Rides from before keep their summary as it was.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.5-7.zip" length="5272583" type="application/octet-stream" sparkle:edSignature="bjl75cUy35hOFWceUqzurWZawZpNhdSezRxVXNYWGQ/aTcf0VBtMLoC8JOWXjE6d+eFPrscEl2xI0agsTkG0Dw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: eERLk94/WEgN/6td5r9QNiWTSGmtutMGIGJ13h5mTM3GfYUQZAgmjAvN5pg+8WP8Ydwankekl96+WW1PevEsBw==
-length: 7698
+edSignature: ni0HxNMKTQ6waOx8FSqtrW92s206tQBpqXt/htqjQ+n0BKvs7mo3CH4rh5bn117rFQTQzkq9w2Jmh2sdwL/TBA==
+length: 7775
 -->
