@@ -6,6 +6,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.10</title>
+            <pubDate>Mon, 26 Oct 2026 17:17:01 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>Minutes in zone this week.</strong> Home and Progress show how many minutes you have ridden this week, Monday to Sunday, in <strong>Endurance</strong> (zones 2–3) and <strong>VO₂max</strong> (zones 5–6), as small batteries that fill towards a weekly target of your own. Set the targets in <strong>Settings</strong> (⌘,), where Anifora suggests your average of the last four weeks; <strong>Threshold</strong> (zone 4) can be switched on there too. Every ride you have saved counts already; demo rides never do.</li>
+<li><strong>…and during the ride.</strong> With a target set, small rings after the mode at the top left fill with the week's minutes, this ride's part bright. Click them for the whole week. A card comes for a few seconds when a zone starts counting, another tenth of a target fills or a target is reached. Switch both off in the ride menu (Esc) or in Settings.</li>
+</ul>
+<ul>
+<li><strong>Collect minutes in a ride.</strong> Click the rings, then <strong>Collect minutes this ride</strong> under a zone: choose the minutes (they start at what your week still misses, spread over the days left) and collect them on your gears, or press <strong>Hold it for me</strong>: ERG holds the middle of Z2 for Endurance or Z4 for Threshold (± moves it inside the zone), and VO₂max comes as 4-minute reps with 3 minutes easy between. A capsule beside the mode shows how far along you are; click it or the rings to change or stop the goal. When the minutes are in, a card says so and the ride goes back to your gears.</li>
+<li><strong>What fills your week.</strong> Each workout in the library says how many of your week's missing minutes it would fill, zone by zone, and the order <strong>Fills my week</strong> puts the best fits first. Home names the one that fills most, with a Load button.</li>
+<li><strong>Try it on the demo trainer.</strong> A demo ride has a demo week of its own, with its own targets, so the rings, the cards and Collect can all be tried without real riding. It is never saved and never counts towards your own week.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.10-12.zip" length="5751939" type="application/octet-stream" sparkle:edSignature="emHJrxc3R5k8XP1sU7xyT+2mGRRbCk45F79OQMvaQUlEBuUvH8pmFRK8EhyLGKEI/30N1Njp9apkw6JfAH87Dg=="/>
+        </item>
+        <item>
             <title>0.2.9</title>
             <pubDate>Sun, 25 Oct 2026 19:34:34 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -41,25 +61,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.8-10.zip" length="5576357" type="application/octet-stream" sparkle:edSignature="DQtCF9ONRa2VT+XwkwzKAmRSx68TbWAKwn+eRsDHkbOUR7RhTEYPZkEnDC3U0iPkrLhgIDRwa3em/o2sfeIZAA=="/>
         </item>
-        <item>
-            <title>0.2.7</title>
-            <pubDate>Tue, 20 Oct 2026 16:05:55 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>Packages.</strong> A new tile on Home opens curated roads by area: the Eifel, the French Alps, the Swiss Alps and the Bergisches Land, each a card with its story and its roads. The Eifel has four loops from about 40 minutes to an afternoon; the Bergisches Land ten hill repeats from one minute to eight, every one in Apple's photographic 3D; every loop says how long it takes you. Real roads read to the metre, free during the beta and yours to keep. The list is fetched when you open the page, and nothing about you is sent. Install adds a pack's roads to your library; Remove puts them in the Trash and keeps your rides.</li>
-<li><strong>Hill repeats show the climb.</strong> The panel at the top left now draws this climb from foot to top, coloured by gradient, with you on it. Between climbs it shows the next one, so you can see what is coming. <strong>Every climb you have ridden races you as a numbered ghost</strong>, on the road and on the profile: you on top, then the fastest climb, down to the slowest — so the tenth climb can be held against the first, not only the ninth. The panel says how you stand against the last climb and the first.</li>
-<li><strong>Steep hills say so.</strong> A road whose steepest stretch is over 12% carries a "Steep" tag — on My roads, in Explore, on a pack's road once installed and on the start line — with the FTP it takes to keep 60 rpm in the easiest gear. If yours is below it, the tag says what it needs, in orange. The road still rides; it is a hint, not a lock.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.7-9.zip" length="5515780" type="application/octet-stream" sparkle:edSignature="SrpbNPEtGeylD3KEGbaS23lfDlG8XxUjW5k60Nz62POyX7KL0Qs7r4vdX/KY35yappQVs2wMA6EiWGTt19tZDA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: h6rAiPQaJ2v8JPnVI4jGjW2z7NSzpcY2Q+osgWMocg2jdUK2MhOUc819JZcEUqa75ZlIgiDMQzqaYorQpKToBw==
-length: 7817
+edSignature: XvobWhFWJJUaCKZAtI1MzwvYmFDRoaxZLdZuUoi1Tqj7qH+54GbSmVHQiJAf3AN5/wGutm33MDNakUlrWwKbBA==
+length: 8362
 -->
