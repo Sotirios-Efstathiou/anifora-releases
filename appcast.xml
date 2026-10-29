@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.11</title>
+            <pubDate>Thu, 29 Oct 2026 14:48:07 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>Journeys.</strong> A new page (⌘0, and a tile on Home): one long real road ridden a day at a time, as many sessions as you like, until you arrive. The first is <strong>Freiburg – Nice</strong>, 900 km over 24 passes, from the Black Forest through the Jura and Gruyère to Mont Blanc, the Route des Grandes Alpes and the Cime de la Bonette, and down to the sea. Each session starts where the last one ended; ride it on your gears or with any workout in ERG. The road's heights come from laser surveys in Switzerland and France.</li>
+<li><strong>Saving points.</strong> The journey card offers where to rest tonight: the next villages and the next town. Press <strong>Rest here</strong>, ride to its marker in the 3D world, and the ride ends there by itself with the whole day kept. End the ride anywhere else and you keep 90 % of the day's distance, never less than the last town you passed (switch it off on the journey's page); End ride says which before you confirm, and a stop you did not choose (a shutdown, the trainer gone) keeps everything.</li>
+<li><strong>Detours.</strong> A town up to 10 km off the road can be a day's end: <strong>Go</strong> on the journey card turns off to it, the ride ends when you arrive, and the next day rides back to the road first.</li>
+<li><strong>57 sights.</strong> Castles, cathedrals, lakes, glaciers, passes and the landmarks of Nice: as you come to one, the camera flies round it for a few seconds while you keep riding, with a photo and a few words on a card. They come at least twenty minutes apart, so a ride is never a string of them; <strong>V</strong> shows one again, and the ride menu can show each again when you reach it.</li>
+<li><strong>Postcards.</strong> Every sight you have ridden past is a postcard on the journey's page: its photo, the day you saw it and a link to Wikipedia.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.11-13.zip" length="20890512" type="application/octet-stream" sparkle:edSignature="GNXsxgpkqVxjAW/7mV7Exza3RFdoWWodntI/SoM67LsTvbfXqR+i71RmotX23RHmNXUe5KzplDVhMTKtjFyEBQ=="/>
+        </item>
+        <item>
             <title>0.2.10</title>
             <pubDate>Mon, 26 Oct 2026 17:17:01 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -45,25 +63,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.9-11.zip" length="5626654" type="application/octet-stream" sparkle:edSignature="lBXsC3jlp8nHLoVPOhl825FFHQpVdgisUZRXEk2jdm0lk5fBc1Jcz60SmBeRNUuLC+lhkZoptcyNw5u2hcGXAQ=="/>
         </item>
-        <item>
-            <title>0.2.8</title>
-            <pubDate>Sun, 25 Oct 2026 17:58:53 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>An intro before hill repeats.</strong> Press Start on a hill repeat and the camera first circles the climb once, the whole of it in view, with one card beside it: the climb, the power to hold, how long each time up and each rest take you, and the whole session. Then it comes down to you and the ride begins right there, with the panels fading back in. Ride, Esc or Space start the ride at once. Press <strong>I</strong> any time, on the start line or during the ride, to watch it again.</li>
-<li><strong>Hold a climb in a zone.</strong> On a road, the climb card that comes up a minute before each climb now has five small buttons, Z1 to Z5, each with its watts. Pick one (or press 1–5) and the trainer holds that power from the foot to the top, whatever gear you are in. At the top the ride goes back to how you were riding. Zones you could not hold to the top are greyed out, worked out from your own threshold and reserve; hover over one to see why. If your reserve runs out or you stop pedalling, the climb is let go and the card says so. Press the same button again, or 0, to let it go yourself.</li>
-<li><strong>Auto shift keeps up at the foot of a climb.</strong> Coming off a descent in a big gear, auto shift now makes one big shift straight to the gear for the climb ahead, like dropping to the small chainring, instead of one gear every two seconds. It also no longer holds a hard gear because your power fell under its floor while your cadence was collapsing.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.8-10.zip" length="5576357" type="application/octet-stream" sparkle:edSignature="DQtCF9ONRa2VT+XwkwzKAmRSx68TbWAKwn+eRsDHkbOUR7RhTEYPZkEnDC3U0iPkrLhgIDRwa3em/o2sfeIZAA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: XvobWhFWJJUaCKZAtI1MzwvYmFDRoaxZLdZuUoi1Tqj7qH+54GbSmVHQiJAf3AN5/wGutm33MDNakUlrWwKbBA==
-length: 8362
+edSignature: +IF4EMhaZMS0q60WpGVEINfLKEUFckCmghhwbD1YgOwdAbmAoVzJFGvjRFVxO/KQVjpgsRaFWklOODu521YfBg==
+length: 8734
 -->
