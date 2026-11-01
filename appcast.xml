@@ -6,6 +6,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.12</title>
+            <pubDate>Sun, 01 Nov 2026 22:31:37 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>Point at a workout to see its watts.</strong> Hover the shape of any workout — in the library, while riding, in the builder — and the block under the pointer shows its watts for you, % of FTP, zone, length, when it starts, its cadence and which rep of a set it is.</li>
+<li><strong>A workout's whole page.</strong> Click a workout's shape or name in the library: its figures, every block in your watts (a set as "3 ×"), its minutes in each zone, and the times you rode it. Rename and Load are there too, and on the card's right-click menu.</li>
+<li><strong>Find workouts by zone.</strong> The library's new zone menu shows only the workouts with Endurance, Threshold or VO₂max minutes, the most first; the filter now also finds a workout by its file name.</li>
+<li><strong>Sweet Spot and Zone 2 families.</strong> 23 new workouts. Sweet Spot from 30 minutes to 90 (2 × 8 up to 3 × 20 and 2 × 30), and five more ways to ride the 3 × 12: in steps (88–91–94%), with surges, with cadence changes, as over-unders, and as a pyramid or a countdown. Zone 2 from 45 minutes to two hours, plus a cadence pyramid, spin-ups, low cadence, waves, tempo touches and a fast finish. The library now shelves workouts by family, shortest first, and a sweet spot block is called that on hover.</li>
+</ul>
+<ul>
+<li><strong>A workout added mid-journey.</strong> Riding a journey on your gears, <strong>+ WORKOUT</strong> beside the mode (top left, also in the menu) puts a workout on the road from that moment: ERG holds its watts and you ride on along the journey, rest stops and sights as before. When it is done you are back on your gears.</li>
+<li><strong>Journeys: a day counts only in a saving point.</strong> Stop anywhere you did not choose <strong>Rest here</strong> (or a detour's town) and the day is lost — it used to keep 90 %. A stop you did not choose (a shutdown, the trainer gone) still keeps everything, and the journey page's Saving points switch still turns the rule off. Before every start, the journey page and the start line say how far the next saving point is, how much climbing, and how long at your Z2 — the Bonette: 48.9 km, 1,592 m up, about 2 h 40 at 208 W.</li>
+<li><strong>Freiburg – Nice: places to stop on the passes.</strong> 26 hotels, refuges and restaurants on the long stretches between villages are saving points now (a bed on the journey card), from the Bonette's Halte 2000, Restefond and Camp des Fourches to the Refuge Napoléon on the Izoard and the Col du Glandon's restaurant — nowhere on the road is more than 25 km from a place to rest.</li>
+<li><strong>The zone rings fill while you collect.</strong> With no weekly target set, a ring stayed empty even while you collected minutes in it; it now fills against the goal you are collecting.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.12-14.zip" length="20987288" type="application/octet-stream" sparkle:edSignature="stS9RFMaSu/UK3L9A4P1KW5W3uQ8ovXin22XQd6e3WDzGQx5gAcw3bA9q3K+1VcXwComT+9u5TVSJ0hKcg6RDg=="/>
+        </item>
+        <item>
             <title>0.2.11</title>
             <pubDate>Thu, 29 Oct 2026 14:48:07 +0100</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -43,29 +66,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.10-12.zip" length="5751939" type="application/octet-stream" sparkle:edSignature="emHJrxc3R5k8XP1sU7xyT+2mGRRbCk45F79OQMvaQUlEBuUvH8pmFRK8EhyLGKEI/30N1Njp9apkw6JfAH87Dg=="/>
         </item>
-        <item>
-            <title>0.2.9</title>
-            <pubDate>Sun, 25 Oct 2026 19:34:34 +0100</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>The power bar shows your zone.</strong> Only the zone you are in lights up, with a pin at your watts. <strong>Drag the pin</strong> and the trainer holds those watts in ERG instead of your gears; the gear panel turns into the watts held, with ± and <strong>Back to gears</strong> (or press <strong>G</strong>). On a climb you hold in a zone, the pin fine-tunes that climb's watts.</li>
-<li><strong>How you sit moved to the ride menu</strong> (Esc) in 3D, and stays on ↑ ↓. The gear panel is smaller.</li>
-<li><strong>The top left says ERG</strong> while a climb is held in a zone — it used to show the road's own number.</li>
-</ul>
-<ul>
-<li><strong>A quieter ride screen in 3D.</strong> Lap, Pause and Stop no longer sit at the top of the road for the whole ride. Press <strong>Esc</strong>, or <strong>Menu</strong> at the top right, for the ride menu: Pause, Lap and End ride, how the climb is ridden, the intensity, power match, Devices, Leave 3D and the other pages. The ride carries on while the menu is open. <strong>Space</strong> pauses and resumes, and End ride asks once more before it ends the ride.</li>
-<li><strong>A smaller Start.</strong> Before the ride, one small bar above the profile shows what is ready (rider, trainer, heart rate) next to the Start button. Until a trainer is connected the button reads <strong>Connect trainer</strong> and opens Devices; once it is connected it turns green, and Return starts.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.9-11.zip" length="5626654" type="application/octet-stream" sparkle:edSignature="lBXsC3jlp8nHLoVPOhl825FFHQpVdgisUZRXEk2jdm0lk5fBc1Jcz60SmBeRNUuLC+lhkZoptcyNw5u2hcGXAQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: +IF4EMhaZMS0q60WpGVEINfLKEUFckCmghhwbD1YgOwdAbmAoVzJFGvjRFVxO/KQVjpgsRaFWklOODu521YfBg==
-length: 8734
+edSignature: hNpjYiCYoBQznsUHBPCG2ZtYUYVduaDuYAMhKk1lUM82XvCiAPJ0nJm02YmKHJh+MYoM2oT3VzsXi16a4A8qAQ==
+length: 10088
 -->
