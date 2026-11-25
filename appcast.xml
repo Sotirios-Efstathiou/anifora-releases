@@ -6,6 +6,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Anifora</title>
         <item>
+            <title>0.2.14</title>
+            <pubDate>Wed, 25 Nov 2026 16:45:27 +0100</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
+<ul>
+<li><strong>The power bar's pin works again after a workout.</strong> Once a workout had been on a ride, dragging the pin did nothing for the rest of that ride — also when the workout was finished or stopped and you were back on your gears, with or without another workout to follow. Now the pin (and Collect) are back the moment the workout ends. During a workout the workout still sets the watts.</li>
+<li><strong>Three ways up a climb instead of five zones.</strong> The climb card now offers <strong>Z2</strong> (endurance), <strong>Sweet spot</strong> and a third chip that rides the climb hard — named by how long it takes: <strong>Sprint</strong> under a minute, <strong>Interval</strong> up to eight, <strong>Threshold</strong> up to an hour. A sprint never asks for more than your rides of the last 60 days show you can hold for that long. Once chosen, <strong>− / +</strong> moves the watts by 5 W, before the climb as on it. Keys 1–3, 0 lets go.</li>
+<li><strong>The next hour under the mini map.</strong> Its profile shows the road you will ride in the next 60 minutes (at your ride's average, at the top of Z2 before the first minute) instead of the whole road.</li>
+<li><strong>Journeys: five places to rest, with minutes.</strong> The journey card lists five places to rest tonight, each with how many minutes away it is at your ride's average power; the mini map and its profile mark them with a small house.</li>
+<li><strong>Switching a workout is easier to find.</strong> A <strong>Switch</strong> button on the workout panel, the key <strong>W</strong>, and a Workout section at the top of the ride menu.</li>
+<li><strong>A warm-up one click away when a journey day starts.</strong> Beside <strong>+ Workout</strong>: <strong>Warm up 5 · 10 · 15 min</strong>. A click adds that warm-up to the day in ERG, on the start line or in the first five minutes of riding; the journey's road stays as it is, and when the warm-up is done you are back on your gears.</li>
+<li><strong>Find the workout to add faster.</strong> The workout picker (<strong>+ Workout</strong>) has two rows of chips: the kind (Zone 2, Sweet Spot, Threshold, VO₂max, Warm-up, …) and how long (under 30 min, 30–60, 60–90, over 90), each with how many workouts it leaves. With every kind shown, the list is grouped by kind, shortest first.</li>
+<li><strong>Recovery workouts, and four steps back after an illness.</strong> A new Recovery kind: Recovery Spin 20, 30 and 45 (zone 1, the 45 touching the bottom of zone 2), and After Illness Step 1–4 — 15, 30, 45 and 60 minutes, one step a day at the most, each saying the heart rate to stay under (70% of your maximum in the first step, 80% after). Training guidance, not medical advice.</li>
+<li><strong>Four sessions for a short day.</strong> Zone 2 Steady 25, Sweet Spot 2x6, Threshold 3x4 and VO2max 6x1 — each 25 minutes, warm-up and cool-down included.</li>
+<li><strong>Plans: workouts in steps, ridden at your pace.</strong> The first is <strong>Back after an illness</strong> (Home → Plans…): a few questions before you start, then four steps a day apart at least, each added with one click on any road's start line or a journey's (<strong>PLAN · STEP 2 OF 4</strong>), and two taps after each to say how it went — symptoms back steps you back, chest pain or dizziness stops the plan. Each rider has their own.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.14-16.zip" length="21209478" type="application/octet-stream" sparkle:edSignature="uBDPIdbfPDxcmofW8bPUWEsFixmLUIzB10DegnCoIhRuhbey06M4kWy0DWhxHG2ZeVmOayRktv1QAFb3mbIMBw=="/>
+        </item>
+        <item>
             <title>0.2.13</title>
             <pubDate>Sun, 08 Nov 2026 22:55:27 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -52,27 +75,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.12-14.zip" length="20987288" type="application/octet-stream" sparkle:edSignature="stS9RFMaSu/UK3L9A4P1KW5W3uQ8ovXin22XQd6e3WDzGQx5gAcw3bA9q3K+1VcXwComT+9u5TVSJ0hKcg6RDg=="/>
         </item>
-        <item>
-            <title>0.2.11</title>
-            <pubDate>Thu, 29 Oct 2026 14:48:07 +0100</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px/1.45 -apple-system,Helvetica,sans-serif;margin:0 4px}ul{padding-left:1.3em}li{margin:0 0 .45em}code{font-family:ui-monospace,Menlo,monospace}</style>
-<ul>
-<li><strong>Journeys.</strong> A new page (⌘0, and a tile on Home): one long real road ridden a day at a time, as many sessions as you like, until you arrive. The first is <strong>Freiburg – Nice</strong>, 900 km over 24 passes, from the Black Forest through the Jura and Gruyère to Mont Blanc, the Route des Grandes Alpes and the Cime de la Bonette, and down to the sea. Each session starts where the last one ended; ride it on your gears or with any workout in ERG. The road's heights come from laser surveys in Switzerland and France.</li>
-<li><strong>Saving points.</strong> The journey card offers where to rest tonight: the next villages and the next town. Press <strong>Rest here</strong>, ride to its marker in the 3D world, and the ride ends there by itself with the whole day kept. End the ride anywhere else and you keep 90 % of the day's distance, never less than the last town you passed (switch it off on the journey's page); End ride says which before you confirm, and a stop you did not choose (a shutdown, the trainer gone) keeps everything.</li>
-<li><strong>Detours.</strong> A town up to 10 km off the road can be a day's end: <strong>Go</strong> on the journey card turns off to it, the ride ends when you arrive, and the next day rides back to the road first.</li>
-<li><strong>57 sights.</strong> Castles, cathedrals, lakes, glaciers, passes and the landmarks of Nice: as you come to one, the camera flies round it for a few seconds while you keep riding, with a photo and a few words on a card. They come at least twenty minutes apart, so a ride is never a string of them; <strong>V</strong> shows one again, and the ride menu can show each again when you reach it.</li>
-<li><strong>Postcards.</strong> Every sight you have ridden past is a postcard on the journey's page: its photo, the day you saw it and a link to Wikipedia.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Sotirios-Efstathiou/anifora-releases/releases/download/updates/Anifora-0.2.11-13.zip" length="20890512" type="application/octet-stream" sparkle:edSignature="GNXsxgpkqVxjAW/7mV7Exza3RFdoWWodntI/SoM67LsTvbfXqR+i71RmotX23RHmNXUe5KzplDVhMTKtjFyEBQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 4o4SLfJ6xtTWLCbRL/XQ8+qCYo+ELwk0Lu8SRm/HJKK3ZwBNmpgHcFPsgAx82LleInCcILl0/0vJTUrXMY5MBQ==
-length: 11388
+edSignature: 3pdV1PT7mWYYknf5al9CXcskmkAuwJ0VhkCVSMxftUSXpd6D3r7Y0JE9gG7sKbsG+ecsKxHH0tAW03zYLga3Bg==
+length: 12914
 -->
